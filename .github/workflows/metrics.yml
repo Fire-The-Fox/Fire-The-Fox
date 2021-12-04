@@ -39,4 +39,4 @@ jobs:
           plugin_lines: yes
           plugin_projects: yes
           plugin_projects_limit: 4
-          repositories_skipped: "tkinter_expansion_docs"
+          repositories_skipped: tkinter_expansion_docs
