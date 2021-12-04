@@ -19,7 +19,7 @@ jobs:
 
           # Options
           user: Fire-The-Fox
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Bratislava
           plugin_achievements: yes
