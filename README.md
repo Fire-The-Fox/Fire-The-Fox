@@ -14,7 +14,7 @@ My favorite programming language is C because it is fun to use, even though i do
 
 ## My Linux setup
 
-As you might have noticed, i am linux user
+As you might have noticed, i am linux user <br>
 Currently i am runnig Artix Linux with runit[^2]. I really like to play around with linux overall and create open source applications for it
 
 ### My overall stats
