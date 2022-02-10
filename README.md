@@ -10,7 +10,6 @@ My favorite programming language is C because it is fun to use, even though i do
 | ---------------------- | ----------- |  ----- | 
 | tkinter_expansion      | Improve working with tkinter | 0 |
 | XFCE-redshift | Application with which you can manage redshift[^1] from xfce's settings| Project not started |
-| ArchISO-manager | Manage your archiso working directory with ease | Source code is still not uploaded 
 
 ## My Linux setup
 
