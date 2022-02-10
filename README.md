@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to my github profile<br><img src="https://avatars.githubusercontent.com/u/64907994" width="192"><br>My name is FireTheFox 👋</h1>
 
 ### Short description about me
-I am 16 years old lazy programmer and Linux lunatic.
+I am 16 years old and i am a lazy programmer and Linux lunatic.
 My favorite programming language is C because it is fun to use, even though i don't have many repositories with C yet
 
 ## Things on which i am working on
