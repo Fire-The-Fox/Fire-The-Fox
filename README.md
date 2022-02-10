@@ -3,7 +3,7 @@
 
 ### Short description about me
 I am 16 years old and i am a lazy programmer and Linux lunatic.
-My favorite programming language is C because it is fun to use, even though i don't have many repositories with C yet
+My favorite programming language is C because it is fun to use, even though i don't have many repositories with C yet.
 
 ## Things on which i am working on
 | Name                   | Description | Are there any issues |
@@ -15,7 +15,7 @@ My favorite programming language is C because it is fun to use, even though i do
 ## My Linux setup
 
 As you might have noticed, i am linux user <br>
-Currently i am runnig Artix Linux with runit[^2]. I really like to play around with linux overall and create open source applications for it
+Currently i am runnig Artix Linux with runit[^2]. I really like to play around with linux overall and create open source applications for it.
 
 ### My overall stats
 Here you can see list of my Most Used Programming Languages<br>
