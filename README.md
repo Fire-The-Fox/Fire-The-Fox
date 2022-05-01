@@ -18,10 +18,10 @@ Currently i am runnig Artix Linux with runit[^2]. I really like to play around w
 
 ### My overall stats
 Here you can see list of my Most Used Programming Languages<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fire-The-Fox&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fire-The-Fox&langs_count=8&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 And my overall Github stats<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fire-The-Fox&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fire-The-Fox&show_icons=true&theme=dark)
 </p>
 
 [^1]: Redshift is application that reduces blue light levels on the screen
